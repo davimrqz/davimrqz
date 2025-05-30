@@ -2,4 +2,4 @@
 
 - 💻 Cursando Engenharia de Software.
 - ☕ Atualmente estou aprendendo as linguagens Java e C.
-- 📫 Links: https://linktr.ee/davimrqz
+- 💼 LinkedIn: [https://linktr.ee/davimrqz](https://www.linkedin.com/in/davimrqz/)
